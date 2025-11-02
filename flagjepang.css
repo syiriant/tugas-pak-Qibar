@@ -1,0 +1,20 @@
+#jepang{
+    background-color: white;
+    height: 200px;
+    width: 320px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    outline: 1px solid black;
+}
+#circle{
+    margin: 20px auto;
+    width: 120px;
+    height: 120px;
+    background-color: #BC002D;
+    border-radius: 1000px;
+    position: absolute;
+    top: 30;
+    left: 103;
+    overflow: hidden;
+}
